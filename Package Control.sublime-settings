@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoWrap",
+		"Git",
+		"GitGutter",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MoveTab",
+		"Package Control",
+		"Stata Enhanced",
+		"SublimeLinter",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pycodestyle"
+	]
+}
