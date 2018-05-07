@@ -15,7 +15,6 @@
 		"Stata Enhanced",
 		"SublimeLinter",
 		"SublimeLinter-html-tidy",
-		"SublimeLinter-pep8",
 		"SublimeLinter-pycodestyle"
 	]
 }
