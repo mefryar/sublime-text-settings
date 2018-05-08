@@ -1,3 +1,4 @@
 {
-  "stata_name": "C:/Program Files (x86)/Stata 14/StataSE-64.exe"
+    "stata_name": "/Applications/Stata 14/StataSE.app"
+    // "stata_name": "C:/Program Files (x86)/Stata 14/StataSE-64.exe"
 }
