@@ -1,15 +1,16 @@
 {
-	// Sets the colors used within the text area
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
-
-	// Automatically wrap beyond ruler
+	// Automatically wrap at 80 characters
 	"auto_wrap": true,
+    "auto_wrap_width": 80,
+
+    // Set the colors used within the text area
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 
 	// Set to true to ensure the last line of the file ends in a newline
     // character when saving
 	"ensure_newline_at_eof_on_save": true,
 
-	"font_size": 11,
+	"font_size": 12,
 
 	// Ignoring Markdown is necessary for MarkdownEditing plugin
 	"ignored_packages":
@@ -18,12 +19,13 @@
 		"Vintage"
 	],
 
-	// Columns in which to display vertical rulers
+
+	// Display vertical rulers at column 80
 	"rulers": [80],
 
-	// Set to true to insert spaces when tab is pressed
+	// Insert spaces when tab is pressed
 	"translate_tabs_to_spaces": true,
 
-	// Set to true to removing trailing white space on save
+	// Remove trailing white space on save
 	"trim_trailing_white_space_on_save": true
 }
