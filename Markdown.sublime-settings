@@ -1,9 +1,15 @@
 {
-	// "color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
+	// Use dark theme
 	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+
+    // Alternate themes
+    // "color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
 	// "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Yellow.tmTheme",
 
     // Create new lines after 79 characters
     "auto_wrap": true,
     "auto_wrap_width": 79,
+
+    // Spell check by default
+    "spell_check": true,
 }
