@@ -1,29 +1,28 @@
 {
-	// Automatically wrap at 80 characters
+	"added_words":
+	[
+		"Fryar",
+		"Jupyter",
+		"https"
+	],
 	"auto_wrap": true,
-    "auto_wrap_width": 80,
-
-    // Set the colors used within the text area
+	"auto_wrap_width": 80,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
-
-	// Ensure the last line of the file ends in a newline character when saving
 	"ensure_newline_at_eof_on_save": true,
-
 	"font_size": 12,
-
-	// Ignoring Markdown is necessary for MarkdownEditing plugin
 	"ignored_packages":
 	[
 		"Markdown",
 		"Vintage"
 	],
-
-	// Display vertical rulers at column 80
-	"rulers": [80],
-
-	// Insert spaces when tab is pressed
+	"ignored_words":
+	[
+		"datasci"
+	],
+	"rulers":
+	[
+		80
+	],
 	"translate_tabs_to_spaces": true,
-
-	// Remove trailing white space on save
 	"trim_trailing_white_space_on_save": true
 }
