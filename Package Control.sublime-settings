@@ -12,10 +12,12 @@
 		"MarkdownPreview",
 		"MoveTab",
 		"Package Control",
+		"Pandoc",
 		"Pretty JSON",
 		"Stata Enhanced",
 		"SublimeLinter",
 		"SublimeLinter-html-tidy",
-		"SublimeLinter-pycodestyle"
+		"SublimeLinter-pycodestyle",
+		"Sync View Scroll"
 	]
 }
