@@ -1,0 +1,20 @@
+{
+  "user": {
+    "transformations": {
+      "PDF": {
+        "scope": {
+          "text.html": "html",
+          "text.html.markdown": "markdown",
+          },
+        "pandoc-arguments": [
+          // Uncomment line below for custom margins
+          // "--variable", "geometry:left=1in,right=1in,top=0.5in,bottom=1in",
+          "-t", "pdf",
+          "--latex-engine=pdflatex", // Pandoc 1.9
+          // "--pdf-engine=pdflatex", // Pandoc 2.0
+
+        ],
+      },
+    }
+  }
+}
