@@ -8,16 +8,17 @@
 		"AutoWrap",
 		"Git",
 		"GitGutter",
+		"MagicPython",
 		"MarkdownEditing",
 		"MarkdownPreview",
 		"MoveTab",
 		"Package Control",
 		"Pandoc",
 		"Pretty JSON",
+		"R-IDE",
 		"Stata Enhanced",
 		"SublimeLinter",
-		"SublimeLinter-html-tidy",
-		"SublimeLinter-pycodestyle",
+		"SublimeLinter-flake8",
 		"Sync View Scroll"
 	]
 }
