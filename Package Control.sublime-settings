@@ -8,6 +8,7 @@
 		"AutoWrap",
 		"Git",
 		"GitGutter",
+		"LSP",
 		"MagicPython",
 		"MarkdownEditing",
 		"MarkdownPreview",
