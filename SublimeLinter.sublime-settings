@@ -4,16 +4,7 @@
     "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
     "lint_mode": "background",
     "linters": {
-        "htmltidy": {
-            "@disable": false,
-            "args": [
-                "--drop-empty-elements=false",
-                "--drop-empty-paras=false",
-                "--tab-size=4"
-            ],
-            "excludes": []
-        },
-        "pycodestyle": {
+        "flake8": {
             "@disable": false,
             "args": [],
             "excludes": [],
