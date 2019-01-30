@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AutoWrap",
 		"Git",
 		"GitGutter",
@@ -16,7 +17,9 @@
 		"Package Control",
 		"Pandoc",
 		"Pretty JSON",
+		"ProjectManager",
 		"R-IDE",
+		"SideBarEnhancements",
 		"Stata Enhanced",
 		"SublimeLinter",
 		"SublimeLinter-flake8",
