@@ -1,6 +1,11 @@
+# Specify intentionally untracked files to ignore
+
 # Package control specific files
 Package Control.cache/
 Package Control.last-run
 Package Control.merged-ca-bundle
 Package Control.user-ca-bundle
 oscrypto-ca-bundle.crt
+
+# Project files
+Projects/
