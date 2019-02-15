@@ -6,7 +6,7 @@
     "linters": {
         "flake8": {
             "@disable": false,
-            "args": [],
+            "args": ["--ignore=F403,F405"], // Undefined functions
             "excludes": [],
             "ignore": "",
             "max-line-length": null,
