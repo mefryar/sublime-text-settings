@@ -15,6 +15,7 @@
 	"ignored_packages":
 	[
 		"Markdown",
+		"Python"
 	],
 	"ignored_words":
 	[
