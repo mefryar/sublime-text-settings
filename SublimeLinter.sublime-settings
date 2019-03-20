@@ -6,7 +6,8 @@
     "linters": {
         "flake8": {
             "@disable": false,
-            "args": ["--ignore=F403,F405"], // Undefined functions
+            // Ignore line break before binary operator and undefined functions
+            "args": ["--ignore=W503,F403,F405"],
             "excludes": [],
             "ignore": "",
             "max-line-length": null,
