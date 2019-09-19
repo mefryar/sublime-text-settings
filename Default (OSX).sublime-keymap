@@ -2,13 +2,4 @@
     { "keys": ["super+alt+c"], "command": "copy_path" },
     { "keys": ["super+k", "super+t"], "command": "title_case" },
     { "keys": ["super+k", "super+s"], "command": "toggle_sync_scroll" },
-    {
-        "keys": ["j", "j"],
-        "command": "exit_insert_mode",
-        "context":
-        [
-            { "key": "setting.command_mode", "operand": false },
-            { "key": "setting.is_widget", "operand": false }
-        ]
-    }
 ]
