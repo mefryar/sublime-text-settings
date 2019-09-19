@@ -1,10 +1,13 @@
 {
 	"added_words":
 	[
+		"aggregator",
+		"blog",
 		"Fryar",
-		"Jupyter",
 		"https",
-		"blog"
+		"Jupyter",
+		"prepended",
+		"replicability"
 	],
 	"auto_wrap": true,
 	"auto_wrap_width": 79,
