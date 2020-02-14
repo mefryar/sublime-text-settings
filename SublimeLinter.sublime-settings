@@ -7,7 +7,7 @@
         "flake8": {
             "@disable": false,
             // Ignore line break before binary operator and undefined functions
-            "args": ["--ignore=W503,F403,F405"],
+            "args": ["--ignore=W503,F403"],
             "excludes": [],
             "ignore": "",
             "max-line-length": null,
@@ -17,7 +17,7 @@
     "no_column_highlights_line": false,
     "paths": {
         "linux": [],
-        "osx": [],
+        "osx": ["~/.pyenv/shims"],
         "windows": []
     },
     "show_marks_in_minimap": true,
