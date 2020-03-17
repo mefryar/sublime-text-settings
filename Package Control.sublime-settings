@@ -8,8 +8,6 @@
 		"A File Icon",
 		"AutoWrap",
 		"Git",
-		"LSP",
-		"MagicPython",
 		"MarkdownEditing",
 		"MarkdownPreview",
 		"MoveTab",
@@ -17,11 +15,11 @@
 		"Pandoc",
 		"Pretty JSON",
 		"ProjectManager",
-		"R-IDE",
 		"SideBarEnhancements",
 		"Stata Enhanced",
 		"SublimeLinter",
 		"SublimeLinter-flake8",
+		"SublimeLinter-rubocop",
 		"Sync View Scroll"
 	]
 }
