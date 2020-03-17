@@ -1,5 +1,6 @@
 {
-	"added_words":
+	// Add words not to flag when spell checking
+    "added_words":
 	[
 		"aggregator",
 		"blog",
@@ -7,28 +8,57 @@
 		"https",
 		"Jupyter",
 		"prepended",
-		"replicability"
+		"replicability",
+		"Juntos",
+		"timestamp",
+		"metadata"
 	],
+
+    // Automatically wrap to keep lines less than 80 characters
 	"auto_wrap": true,
 	"auto_wrap_width": 79,
+
+    // Set to true to close windows as soon as the last file is closed, unless
+    // there's a folder open within the window.
 	"close_windows_when_empty": true,
+
+    // Sets the colors used within the text area
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+
+    // Set to false because it was incorrectly detecting tab width as 2 for
+    // Python files
+    "detect_indentation": false,
+
+    // Set to true to ensure the last line of the file ends in a newline
+    // character when saving since this is required by PEP8
 	"ensure_newline_at_eof_on_save": true,
+
+    // Set default font size
 	"font_size": 14,
-	"ignored_packages":
+
+    // Ignore Markdown to use MarkdownEditing and Vintage to disable vi mode
+    "ignored_packages":
 	[
 		"Markdown",
 		"Python",
 		"Vintage"
 	],
+
+    // Words to ignore when spell checking
 	"ignored_words":
 	[
 		"datasci"
 	],
+
+    // Add visual ruler where lines automatically wrap
 	"rulers":
 	[
 		79
 	],
+
+    // Set to true to insert spaces when tab is pressed as required by PEP8
 	"translate_tabs_to_spaces": true,
+
+    // Set to true to removing trailing white space on save as required by PEP8
 	"trim_trailing_white_space_on_save": true
 }
